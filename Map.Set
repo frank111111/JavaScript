@@ -1,0 +1,10 @@
+#################################
+Map as an Object 
+#################################
+Javascript 里面有两种Map, 一种是 method Map (用来apply function 到array 里所有的elements.) ，另一种是object Map (作用类似于python 中的dictionary.
+           Javascript Object 的属性也带这种运用, 但是Map 比Object 的属性 更快,而且也可以用数字作为Key.)
+           (唐伯虎点秋香那个场景记得吧,obj就像那群盖着盖头的姑娘，你要找到秋香，得一个个去掀盖头；map是姑娘们一出来没盖头，看到秋香牵着就走；)
+           
+           
+ 
+
