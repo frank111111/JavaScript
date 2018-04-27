@@ -8,5 +8,12 @@ Javascript 里面有两种Map, 一种是 method Map (用来apply function 到arr
  Var pp= New Map([['frank',20],['bob',25]])          
  注意： Map 括弧里面,是先有[], 把每一个['frank',20]括起来.所以这里Map 是有()和[],一起扩住里面的类似dictionary 的array
  
+ pp.get('frank')  
+ pp.set('jeri',80)
+ pp.has('frank')
+ pp.delet('frank')
+ 
+ 这些都是基本的操作.
+ 
  
 
